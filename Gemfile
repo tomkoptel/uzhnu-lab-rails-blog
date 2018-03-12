@@ -48,3 +48,5 @@ gem 'devise'
 gem 'carrierwave'
 gem 'mini_magick'
 gem 'faker'
+
+ruby '2.4.0'
